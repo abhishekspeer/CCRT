@@ -72,4 +72,4 @@ OTP – 489871
 ### Stuff used to make this:
  * [PAYTM API DOCUMENTATION](http://paywithpaytm.com/developer/paytm_api_doc/) 
  * [SDK DOCUMENTATION](http://paywithpaytm.com/developer/paytm_sdk_doc/) 
-###### Special Thanks to Harish Bisht for his Repository and Staging Creadentials.
+###### Special Thanks to Harish Bisht for his Repository and Staging Credentials.
