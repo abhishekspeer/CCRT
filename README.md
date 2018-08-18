@@ -4,7 +4,7 @@ Paytm-Payment Gateway Example On Python-Django
 * First clone the project, open your terminal and enter the command
 
 ```javascript
-git clone https://github.com/abhishekspeer/PaytmPay-Integration.git
+git clone https://github.com/abhishekspeer/paytm-django.git
 ```
 * Now create a virtual environment
 ```javascript
@@ -72,4 +72,4 @@ OTP – 489871
 ### Stuff used to make this:
  * [PAYTM API DOCUMENTATION](http://paywithpaytm.com/developer/paytm_api_doc/) 
  * [SDK DOCUMENTATION](http://paywithpaytm.com/developer/paytm_sdk_doc/) 
-#### Special Thanks to Harish Bisht for his Repository and Staging Creadentials.
+###### Special Thanks to Harish Bisht for his Repository and Staging Creadentials.
