@@ -103,8 +103,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-PAYTM_MERCHANT_KEY = ""
-PAYTM_MERCHANT_ID = ""
+PAYTM_MERCHANT_KEY = "bKMfNxPPf_QdZppa"
+PAYTM_MERCHANT_ID = "DIY12386817555501617"
 HOST_URL = "http://localhost:8080"
 PAYTM_CALLBACK_URL = "http://localhost:8000/response/"
 
